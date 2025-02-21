@@ -16,3 +16,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+### Clone the Repository:
+To get started with the project, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/super_eat_app_group1.git.
+
+To run the mobile application, follow these steps:
+cd super_eat_app_group1
+flutter pub get
+flutter run
+
+To run the web application locally, follow these steps:
+npm install
+npm start
