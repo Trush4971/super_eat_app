@@ -1,6 +1,8 @@
 # super_eat_app
 
 A new Flutter project.
+**SuperEatApp** is a mobile app designed for users to discover, order, and track food deliveries from local restaurants. The goal of this project is to demonstrate skills in API integration, user authentication, real-time notifications, and ensuring a seamless user experience.
+
 
 ## Getting Started
 
